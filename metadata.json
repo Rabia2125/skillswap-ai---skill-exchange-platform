@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap AI - Skill Exchange Platform",
+  "description": "AI-powered skill exchange platform where users discover partners, trade knowledge, communicate in real time, and get personalized AI learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
